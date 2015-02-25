@@ -1,0 +1,6 @@
+C:\Users\LAB314\documents\visual studio 2012\Projects\SQLServerTest\SQLServerTest\bin\Debug\SQLServerTest.exe.config
+C:\Users\LAB314\documents\visual studio 2012\Projects\SQLServerTest\SQLServerTest\bin\Debug\SQLServerTest.exe
+C:\Users\LAB314\documents\visual studio 2012\Projects\SQLServerTest\SQLServerTest\bin\Debug\SQLServerTest.pdb
+C:\Users\LAB314\documents\visual studio 2012\Projects\SQLServerTest\SQLServerTest\obj\Debug\SQLServerTest.exe
+C:\Users\LAB314\documents\visual studio 2012\Projects\SQLServerTest\SQLServerTest\obj\Debug\SQLServerTest.pdb
+C:\Users\LAB314\Documents\Visual Studio 2012\Projects\SQLServerTest\SQLServerTest\obj\Debug\SQLServerTest.csprojResolveAssemblyReference.cache
